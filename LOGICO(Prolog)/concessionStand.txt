@@ -1,0 +1,3 @@
+teste1 | R$ 1
+coca | R$ 5
+pipoca | R$ 7
